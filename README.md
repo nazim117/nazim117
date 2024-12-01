@@ -11,13 +11,15 @@ Welcome to my GitHub profile! I'm a third-year Software Engineering student pass
 
 ## Skills
 
-- Programming Languages: C#, Java, Kotlin
-- Web Development: Razor Pages, HTML, CSS, Javascript, Typescript, React
-- Database: MSSQL, MySQL, PostgreSQL, Firebase
-- Version Control: Git, GitHub
+- **Programming Languages**: C#, Java, Kotlin, Python
+- **Web Development**: Razor Pages, HTML, CSS, Javascript, Typescript
+- **Database**: MSSQL, MySQL, PostgreSQL, Firebase
+- **Frameworks/Libraries**: React, Flutter, Node.js, .NET Core
+- **Tools**: Postman, Docker, Sonarqube
+- **APIs**: RESTful APIs, WebSockets
+- **Version Control**: Git, GitHub
 
 ## Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/nazim-ahmedov-933022227/)
+[LinkedIn](https://www.linkedin.com/in/nazim-ahmedov-933022227/)
 
 Feel free to reach out for collaborations or discussions about software engineering, web development, or anything related.
